@@ -81,7 +81,7 @@ const Navbar: React.FC = () => {
                  <img 
                    src={logoUrl} 
                    alt="STEVES AI" 
-                   className="h-16 md:h-20 max-h-full object-contain transition-all duration-300" 
+                   className="h-20 md:h-24 max-h-full object-contain transition-all duration-300" 
                  />
                </a>
             </div>
@@ -137,7 +137,7 @@ const Navbar: React.FC = () => {
                 <img 
                   src={logoUrl} 
                   alt="STEVES AI" 
-                  className="h-14 object-contain" 
+                  className="h-16 object-contain" 
                 />
               </a>
               <button 
