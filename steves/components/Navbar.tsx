@@ -72,7 +72,7 @@ const Navbar: React.FC = () => {
           isScrolled ? 'shadow-lg' : ''
         }`}
       >
-        <div className="relative bg-white h-20 md:h-24 shadow-sm">
+        <div className="relative bg-white h-24 md:h-28 lg:h-32 shadow-sm">
           <div className="container mx-auto px-6 h-full flex justify-between items-center relative z-20">
             
             {/* Logo */}
