@@ -81,7 +81,7 @@ const Navbar: React.FC = () => {
                  <img 
                    src={logoUrl} 
                    alt="STEVES AI" 
-                   className="h-16 md:h-20 max-h-full object-contain transition-all duration-300" 
+                   <img   src={logoUrl}   alt="STEVES AI"   className="h-20 md:h-24 lg:h-28 w-auto object-contain transition-all duration-300" /> 
                  />
                </a>
             </div>
